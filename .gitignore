@@ -1,0 +1,8 @@
+# Environment
+.idea/
+.vs/
+
+# compiled file
+__pycache__/
+*.py[cod]
+*.$py.class
